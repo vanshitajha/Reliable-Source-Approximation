@@ -1,8 +1,7 @@
 # packages in environment at /home/zenghy/.conda/envs/DDA:
 #
 # Name                    Version                   Build  Channel
-_libgcc_mutex             0.1                        main    defaults
-_openmp_mutex             5.1                       1_gnu    defaults
+
 absl-py                   1.4.0                    pypi_0    pypi
 accelerate                0.20.3                   pypi_0    pypi
 addict                    2.4.0                    pypi_0    pypi
